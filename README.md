@@ -1,6 +1,7 @@
-### Hello there my name is Patrick
+### Hello there my name is Patrick Kwon
 <!-- For GitHub statistics -->
 <img src="https://komarev.com/ghpvc/?username=neurologialogic&color=orange" alt="GitHub Visitor Count">
+
 ## 🚀 About Me
 - 🍀 I'm a Software Engineer
       
