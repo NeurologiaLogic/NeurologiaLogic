@@ -1,4 +1,4 @@
-### Hello there my name is Hansen 👋
+### Hello there my name is Patrick
 <!-- For GitHub statistics -->
 <img src="https://komarev.com/ghpvc/?username=neurologialogic&color=orange" alt="GitHub Visitor Count">
 ## 🚀 About Me
